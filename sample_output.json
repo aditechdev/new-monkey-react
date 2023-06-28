@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Veloretti Ace Two e-bike review: rarified heir",
+            "description": "The Veloretti Ace Two electric bike has a belt drive, removable battery, and smooth automatic shifting, and it’s built to be serviced anywhere. You might not be able to buy it, but you’ll want it anyway.",
+            "url": "https://www.theverge.com/23775103/veloretti-ace-two-ebike-review-price-specs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bNs3oINYodjMnuHe3N1oD5r_39M=/0x0:4096x1834/1200x628/filters:focal(2048x917:2049x918)/cdn.vox-cdn.com/uploads/chorus_asset/file/24754837/IMG20230619135141.jpeg",
+            "publishedAt": "2023-06-28T05:30:00Z",
+            "content": "Belt drive, removable battery, smooth automatic shifting, and built to be serviced anywhere. This Dutch e-bike checks all the boxes.\r\nByThomas Ricker, a deputy editor and Verge co-founder with a pass… [+9619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Lucy Mangan",
+            "title": "Hijack review – Idris Elba makes this beautifully daft plane thriller soar",
+            "description": "The Luther star is majestically charismatic in this real-time hijack drama. He is the rock on which seven hours of brilliant, bingeable nonsense are basedApple TV+’s latest offering is Idris Elba on a Plane. He plays ordinary guy Sam Nelson – known for his bu…",
+            "url": "https://www.theguardian.com/tv-and-radio/2023/jun/28/hijack-review-idris-elba-makes-this-beautifully-daft-plane-thriller-soar",
+            "urlToImage": "https://i.guim.co.uk/img/media/e6612e09a9a3c2a5423b7b7a0fe430a5e65c9b78/267_0_8106_4864/master/8106.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=daf5ba5dcc3c61b82d84b947e7ac81ae",
+            "publishedAt": "2023-06-28T05:00:55Z",
+            "content": "Apple TV+s latest offering is Idris Elba on a Plane. He plays ordinary guy Sam Nelson known for his business negotiating skills back on Earth who finds himself trapped on a hijacked flight and forced… [+9637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Ricardo Aguilar",
+            "title": "Google está creando 'el Android de la realidad aumentada', según Business Insider",
+            "description": "Google, según fuentes cercanas al proyecto consultadas por Business Insider, habría cancelado sus gafas de realidad aumentada. Bajo el nombre de Project Iris, iniciativa que conocimos a principios del pasado curso y tras la compra de North (compañía especiali…",
+            "url": "https://www.xataka.com/realidad-virtual-aumentada/google-esta-creando-android-realidad-aumentada-business-insider",
+            "urlToImage": "https://i.blogs.es/9695f2/1366_2000-2-/840_560.jpeg",
+            "publishedAt": "2023-06-28T07:21:58Z",
+            "content": "Google, según fuentes cercanas al proyecto consultadas por Business Insider, habría cancelado sus gafas de realidad aumentada. Bajo el nombre de Project Iris, iniciativa que conocimos a principios de… [+3157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Environments: In welche Wüsten Apple Vision-Pro-Nutzer schickt",
+            "description": "Apple wird zum Start seiner Vision Pro über ein Dutzend professionell aufgezeichnete Panoramen mitliefern, in die man abtauchen kann. Hier die Liste.",
+            "url": "https://www.heise.de/news/Environments-In-welche-Wuesten-Apple-Vision-Pro-Nutzer-schickt-9197976.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/1/2/9/4/vision-pro-environments-bb02bc3ba84bb878.jpg",
+            "publishedAt": "2023-06-28T07:55:00Z",
+            "content": "Apples erstes Mixed-Reality-Headset, die Vision Pro, die im kommenden Jahr erscheinen soll, wird standardmäßig mit einer besonderen Form von Bildschirmschonern kommen: Den sogenannten Environments. D… [+2542 chars]"
+        }
+        
+    ]
+}
